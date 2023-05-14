@@ -5,12 +5,9 @@ go 1.19
 require (
 	github.com/cosmos/cosmos-sdk v0.46.6
 	github.com/ethereum/go-ethereum v1.10.26
-	github.com/evmos/ethereum-ledger-go v0.1.2
 	github.com/evmos/ethermint v0.20.0-rc3
-	github.com/onsi/ginkgo/v2 v2.5.1
-	github.com/onsi/gomega v1.24.1
 	github.com/stretchr/testify v1.8.1
-	github.com/zondax/hid v0.9.1-0.20220302062450-5552068d2266
+	github.com/zondax/hid v0.9.1
 )
 
 require (
@@ -66,7 +63,6 @@ require (
 	github.com/go-kit/kit v0.12.0 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
-	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
